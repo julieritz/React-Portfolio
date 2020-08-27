@@ -14,11 +14,6 @@ function Nav(props) {
     return (
         <div>
             <nav className="uk-navbar-container uk-navbar navbar" style={style.navbar}>
-                {/* <div className="uk-navbar-left">
-                    <a uk-icon="icon: linkedin" href="https://www.linkedin.com/in/julie-ritz-52a26787/" target="_blank" className="contact-icon contact-link-icon"></a>
-                    <a uk-icon="icon: mail" className="contact-icon contact-link-icon" href="mailto:julie.ritz@gmail.com"></a>
-                    <a uk-icon="icon: github-alt" href="https://github.com/julieritz" className="contact-icon contact-link-icon" target="_blank"></a>
-                </div> */}
                 <div className="uk-navbar-right">
                     <ul className="uk-navbar-nav uk-visible@m">
                         <li><Link to="/about" className="nav-item" style={{ color: props.color }}>About</Link></li>
