@@ -10,8 +10,9 @@ function App() {
     return (
         < Router >
             <Route exact path="/" component={About} />
-            <Route path="/about" component={About} />
-            <Route path="/portfolio" component={Portfolio} />
+            <Route exact path="/about" component={About} />
+            <Route exact path="/react-portfolio" component={About} />
+            <Route exact path="/portfolio" component={Portfolio} />
             <Route exact path="/skills" component={Skills} />
             <MobileNav />
         </Router >
