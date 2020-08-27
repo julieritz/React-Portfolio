@@ -26,4 +26,3 @@ None
 Julie Ritz
 ## Questions
 Reach out to me if you have any questions! You can find my contact information in my portfolio.
-![image](https://user-images.githubusercontent.com/60047114/90193057-02719180-dd79-11ea-817e-aaeda9f519c0.png)
